@@ -9,6 +9,8 @@ tags:
 
 # Honey Soy Salmon
 
+![Honey Soy Salmon](./cover.jpeg)
+
 Serves 2
 
 ## Ingredients
